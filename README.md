@@ -52,4 +52,4 @@ python manage.py runserver 127.0.0.0:8000
 ```
 9.访问127.0.0.0:8000/learing_logs/index进入主页面
 -------
-![](https://github.com/PyGuojun/learning_log/tree/master/image/logo.jpg)
+![](https://github.com/PyGuojun/learning_log/blob/master/image/logo.jpg)
