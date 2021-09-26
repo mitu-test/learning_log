@@ -1,4 +1,4 @@
-# learning_log-2018
+# learning_log-2019
 项目简介：
 -------
 learning_log是基于python3.6+Django 1.11.6+Bootstrap3开发的一个简单的学习笔记项目，支持用户注册、登录、学习主题、主题下笔记的增删改查等功能。
